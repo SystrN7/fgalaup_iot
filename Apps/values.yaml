@@ -15,6 +15,6 @@ service:
 
 ingress:
   path: /
-  hosts:
+  host:
     - app.com
 
