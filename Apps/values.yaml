@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   name: wil42/playground
-  tag: v1
+  tag: v2
   pullPolicy: IfNotPresent
 
 service:
